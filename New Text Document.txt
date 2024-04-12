@@ -1,0 +1,13 @@
+Instead of defining your own state classes, you will use the "state_machine module" introduced in the class.
+Begin by creating a class named "VendingProcess" to encapsulate the states and transitions that will define
+the vending machine's state machine. Subsequently, rewrite your vending_machine class. To test your classes,
+use the same main function from the previous question.
+
+Here's a summary of steps:
+
+1. Encapsulate states and transitions in VendingProcess class: Create a class named "VendingProcess"
+that encapsulates the states and transitions defining the vending machine's state machine.
+2. Rewrite vending_machine class: Rewrite the vending_machine class to incorporate the state_machine
+module and the VendingProcess class.
+3. Utilize existing main function for testing: Employ the same main function from the previous question to
+test the newly implemented classes.
